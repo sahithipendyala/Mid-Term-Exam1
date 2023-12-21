@@ -233,26 +233,26 @@ export default function Home() {
                     </div>
                     <div className="bg-white p-5 flex flex-col items-start justify-center gap-1 ">
                         <div className="edu-title font-bold">
-                            Oracle
+                            SimpliLearn
                         </div>
                         <div className="edu-subtitle text-gray-500">
-                            Cloud infrastructure certification
+                            Machine learning by SkillUp
                         </div>
                     </div>
                     <div className="bg-white p-5 flex flex-col items-start justify-center gap-1">
                         <div className="edu-title font-bold">
-                            Oracle
+                            Google Coursera
                         </div>
                         <div className="edu-subtitle text-gray-500">
-                            Cloud infrastructure certification
+                            Data, Data Every Where.
                         </div>
                     </div>
                     <div className="bg-white p-5 flex flex-col items-start justify-center gap-1">
                         <div className="edu-title font-bold">
-                            Oracle
+                            Indo-Euro Synchronization
                         </div>
                         <div className="edu-subtitle text-gray-500">
-                            Cloud infrastructure certification
+                            Advanced Data Science Internship
                         </div>
                     </div>
                 </div>
